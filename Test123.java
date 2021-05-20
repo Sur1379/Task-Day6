@@ -1,4 +1,4 @@
-package TaskDay6;
+package com.company.TaskDay6;
 
 import java.util.Scanner;
 
